@@ -1,2 +1,3 @@
 # hello-world
 "This repository is for practicing the GitHub Flow."
+I am computer science student with a strong interest in software development, AI, and innovative tech solutions. You're currently working on multiple projects, including eye-tracking for predicting actions and food recognition using AI. I also have a creative side, with expertise in designing fashion trends and a passion for dance, music, and drawing. My recent focus includes GitHub workflows, pattern-based coding in Java, and optimizing online shopping experiences with tactile feedback. Plus, you enjoy vibing to music for long periods—sounds like a great balance of tech and creativity! 
